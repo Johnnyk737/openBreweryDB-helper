@@ -1,0 +1,12 @@
+{
+  "name": "openbrewerydb_helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "John Kroll",
+  "description": "A nodeJS helper for openbreweryDB",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.16.9"
+  }
+}
